@@ -6,6 +6,7 @@ database management system (RDBMS)
 # Implementations
 - Technical Documentation
 - Entity Relationship Diagram
+- Entity Relationship Diagram Language
 - Relational Physical Model (Table & Text)
 - Database build (SQL File)
 - Business rules/Contraints
