@@ -12,9 +12,12 @@ database management system (RDBMS)
 - Business rules/Contraints
 - Constraint Unit Testing
 
-# ERD_many_to_many_relationship 
+# Product Attributes - Sample Data
+![image](https://user-images.githubusercontent.com/33835722/135760148-ecd6df27-026a-4834-9f6b-0196be4a6381.png)
+
+# ERD: many to many relationship 
 ![ERD_many_to_many_relationship](https://user-images.githubusercontent.com/33835722/135745720-2a323957-80cc-4972-b6c3-b8f58e2f5d13.png)
 
-# ERD_many_to_many_relationship_resolved
+# ERD:many to many relationship resolved
 ![ERD_many_to_many_relationship_resolved](https://user-images.githubusercontent.com/33835722/135745729-cb5caf34-9eda-4e98-aef5-0eb769682032.png)
 
