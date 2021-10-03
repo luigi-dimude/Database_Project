@@ -1,4 +1,4 @@
-# Database_Term1_Project
+# Database_Term1_Project (Individual project)
 A design, model and implementation of a company's database implemented based on the Customer Sales Invoice and other information using an enterprise-level relational
 database management system (RDBMS)
 
